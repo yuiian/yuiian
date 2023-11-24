@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuiian
 - 👀 I’m interested in playing
 - 🌱 I’m currently learning math
-- 💞️ I’m looking to collaborate on playing
+- 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me 
 
 <!---
